@@ -2,4 +2,4 @@
 # Hola-Mundo
 Mi primer repositorio
 
-I love :pizza:, :dog:, :programming:
+I love to :walk:, :cat:, :fernet:
